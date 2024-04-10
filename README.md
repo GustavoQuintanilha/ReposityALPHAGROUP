@@ -1,9 +1,9 @@
 # Repository APLHAGROUP
 # Aprendizado por Projeto Integrado (API) - Template
 
-Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -32,7 +32,8 @@ Sprint | Previsão | Status|
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo trabalhar em conjunto com a empresa Ball Corporation trabalhando com os desafios solicitados pela parceira, visando:
+Este projeto tem como objetivo trabalhar em conjunto com o cliente interno FATEC, tendo como o coordenador do curso de logística responsável por propor os desafios para se trabalhar no decorrer do semestre, visando:
+
 * Aplicar métodos para resoluções de "problemas";
 * Realizar as entregas conforme o solicitado nas datas apresentadas;
 * Apresentar soluções para os desafios propostos;

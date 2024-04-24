@@ -21,9 +21,9 @@ Sprint | Previsão | Status|
 |----------|----------|----------|
 |Kick Off | 10/04/2024 | a confirmar|
 |------|--------|------|
-|1ª Sprint| 30/04/2024 | a confirmar |
-|2ª Sprint| 22/05/2024 | a confirmar |
-|3ª Sprint| 12/06/2024 | a confirmar |
+|1ª Sprint| 08/05/2024 | a confirmar |
+|2ª Sprint| 29/05/2024 | a confirmar |
+|3ª Sprint| 19/06/2024 | a confirmar |
 |------|--------|------|
 |Feira de Soluções | 27/06/2024 | a fazer |
 

@@ -19,7 +19,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status|
 |----------|----------|----------|
-|Kick Off | 10/04/2024 | a confirmar|
+|Kick Off| 10/04/2024 | concluído |
 |------|--------|------|
 |1ª Sprint| 08/05/2024 | a confirmar |
 |2ª Sprint| 29/05/2024 | a confirmar |

@@ -62,47 +62,32 @@ Adicionar video e documentos nessa seção
 
 # Backlog do produto
 
-## Sprint 1. Concepção
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+## Sprint 1. Início do Desenvolvimento do Projeto
+- [ ] Definição dos objetivos;
+- [ ] Criação do Repositório no GitHub;
+- [ ] Edição do template do GitHub;
+- [ ] Criação e modelagem de base de dados SQL;
+- [ ] Refinamento da base de dados SQL;
+- [ ] Análise dos dados de produtividade dos veículos;
+- [ ] Importação dos dados ao Power BI;
+- [ ] Criação de gráficos ilustrativos;
+- [ ] Apresentação dos resultados;
 
-## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+## Sprint 2. Desenvolvimento e Análise dos dados
+- [ ] Análise dos dados de produtividade dos veículos;
+- [ ] Análise da evolução dos custos por KM, por rota e fábrica;
+- [ ] Importação dos dados ao Power BI;
+- [ ] Criação de gráficos para demonstração dos resultados;
+- [ ] Apresentação dos resultados;
       
-## Sprint 3 . Implementação
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-      
-## Sprint 4. Operacionalização
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-
-
+## Sprint 3 . Conclusão
+- [ ] Análise dos dados de produtividade dos veículos;
+- [ ] Análise da evolução dos custos por KM, por rota e fábrica;
+- [ ] Análise da evolução dos custos por unidade transportada, por fábrica;
+- [ ] Importação dos dados ao Power BI;
+- [ ] Criação de gráficos para demonstração dos resultados;
+- [ ] Apresentação dos resultados;
+- [ ] Conclusão da análise dos dados apresentados;
 
   
 # Competências desenvolvidas

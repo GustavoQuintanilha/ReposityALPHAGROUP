@@ -59,6 +59,7 @@ Links de arquivos e apresentações:
 * Power BI
 * Microsoft Excel
 * Slack
+* SQL
 * MS Project
 * MS Power Point
 
@@ -93,7 +94,7 @@ Links de arquivos e apresentações:
 - [ ] Apresentação dos resultados;
 - [ ] Conclusão da análise dos dados apresentados;
 
-  
+
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)

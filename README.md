@@ -40,14 +40,18 @@ Este projeto tem como objetivo trabalhar em conjunto com o cliente interno FATEC
 * Propor melhorias de processos visando minimizar "falhas/erros" de gerenciamento de processos;
 * Desenvolver apresentações para os temas propostos.
 
-# Funcionalidades e registros (vídeos e apresentações) das sprints
+# Registros (arquivos, links e apresentações) das sprints
 
-Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
+Links de arquivos e apresentações:
 
-Adicionar video e documentos nessa seção
+*
+*
+*
+*
+*
+*
 
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
+
 
 ## Tecnologias Utilizadas
 
@@ -129,4 +133,5 @@ Adicionar video e documentos nessa seção
 | Scrum Master  | Gustavo Quintanilha | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://github.com/GustavoQuintanilha) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GustavoQuintanilha)     |
 |  Team Member  | Ewerton Vitorino | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vitor-c1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
 |  Team Member  | Paulo Marinho | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://github.com/Paulomarinh) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Paulomarinh)   |
-|  Team Member  | Ulisses Guimarães | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://github.com/ulisses8) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ulisses8)          |
+|  Team Member  | Ulisses Santos | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://github.com/ulisses8) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ulisses8)          |
+|  Team Member  | Ulisses Santos | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://github.com/AndersonSantosCPV) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AndersonSantosCPV)     |

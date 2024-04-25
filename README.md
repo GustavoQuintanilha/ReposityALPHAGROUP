@@ -69,6 +69,7 @@ Links de arquivos e apresentações:
 
 ## Sprint 1. Início do Desenvolvimento do Projeto
 - [ ] Definição dos objetivos;
+- [ ] Modelo de gestão JIRA Software;
 - [ ] Criação do Repositório no GitHub;
 - [ ] Edição do template do GitHub;
 - [ ] Criação e modelagem de base de dados SQL;

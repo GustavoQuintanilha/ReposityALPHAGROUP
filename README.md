@@ -72,15 +72,15 @@ Links de arquivos e apresentações:
 - [ ] Modelo de gestão JIRA Software;
 - [ ] Criação do Repositório no GitHub;
 - [ ] Edição do template do GitHub;
-- [ ] Criação e modelagem de base de dados SQL;
-- [ ] Refinamento da base de dados SQL;
 - [ ] Análise dos dados de produtividade dos veículos;
 - [ ] Importação dos dados ao Power BI;
 - [ ] Criação de gráficos ilustrativos;
 - [ ] Apresentação dos resultados;
 
 ## Sprint 2. Desenvolvimento e Análise dos dados
-- [ ] Análise dos dados de produtividade dos veículos;
+- [ ] Criação e modelagem de base de dados SQL;
+- [ ] Refinamento da base de dados SQL;
+- [ ] Análise de dados de produtividade dos veículos;
 - [ ] Análise da evolução dos custos por KM, por rota e fábrica;
 - [ ] Importação dos dados ao Power BI;
 - [ ] Criação de gráficos para demonstração dos resultados;

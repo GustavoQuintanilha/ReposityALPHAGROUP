@@ -49,10 +49,7 @@ Links de arquivos e apresentações:
 * https://app.powerbi.com/groups/me/reports/5d1b9a78-2571-4d1f-9ad5-ab36f7333db6?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
   
 * ![INCOTERMS](https://github.com/GustavoQuintanilha/ReposityALPHAGROUP/assets/165968263/5c1d75ec-5ee1-4137-a70b-3d9413710747)
-* 
-* 
-* 
-* 
+
 
 
 ## Tecnologias Utilizadas

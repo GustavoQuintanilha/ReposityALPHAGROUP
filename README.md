@@ -67,18 +67,18 @@ Links de arquivos e apresentações:
 # Backlog do produto
 
 ## Sprint 1. Início do Desenvolvimento do Projeto
-- [✓] Definição dos objetivos;
-- [✓] Modelo de gestão JIRA Software;
+- [x] Definição dos objetivos;
+- [x] Modelo de gestão JIRA Software;
 - [x] Criação do Repositório no GitHub;
-- [ ] Edição do template do GitHub;
-- [ ] Análise dos dados de produtividade dos veículos;
-- [ ] Importação dos dados ao Power BI;
-- [ ] Criação de gráficos ilustrativos;
-- [ ] Apresentação dos resultados;
+- [x] Edição do template do GitHub;
+- [x] Criação e modelagem de base de dados;
+- [x] Análise dos dados de produtividade dos veículos;
+- [x] Importação da base de dados ao Power BI;
+- [x] Criação de gráficos ilustrativos;
+- [x] Apresentação dos resultados;
 
 ## Sprint 2. Desenvolvimento e Análise dos dados
-- [ ] Criação e modelagem de base de dados SQL;
-- [ ] Refinamento da base de dados SQL;
+- [ ] Refinamento da base de dados;
 - [ ] Análise de dados de produtividade dos veículos;
 - [ ] Análise da evolução dos custos por KM, por rota e fábrica;
 - [ ] Importação dos dados ao Power BI;

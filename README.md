@@ -54,14 +54,15 @@ Links de arquivos e apresentações:
 
 ## Tecnologias Utilizadas
 
-* Jira Software
+* Jira Software **
 * Power BI
 * Microsoft Excel
-* Slack
+* Slack **
 * SQL
 * MS Project
 * MS Power Point
 
+OBS: ** Tecnologias ainda não aplicadas ao desenvolvimento do projeto.
 
 
 # Backlog do produto

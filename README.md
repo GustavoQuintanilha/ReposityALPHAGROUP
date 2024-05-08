@@ -69,7 +69,7 @@ Links de arquivos e apresentações:
 ## Sprint 1. Início do Desenvolvimento do Projeto
 - [✓] Definição dos objetivos;
 - [✓] Modelo de gestão JIRA Software;
-- [ ] Criação do Repositório no GitHub;
+- [x] Criação do Repositório no GitHub;
 - [ ] Edição do template do GitHub;
 - [ ] Análise dos dados de produtividade dos veículos;
 - [ ] Importação dos dados ao Power BI;

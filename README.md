@@ -67,8 +67,8 @@ Links de arquivos e apresentações:
 # Backlog do produto
 
 ## Sprint 1. Início do Desenvolvimento do Projeto
-- [ ] Definição dos objetivos;
-- [ ] Modelo de gestão JIRA Software;
+- [✓] Definição dos objetivos;
+- [✓] Modelo de gestão JIRA Software;
 - [ ] Criação do Repositório no GitHub;
 - [ ] Edição do template do GitHub;
 - [ ] Análise dos dados de produtividade dos veículos;

@@ -62,10 +62,8 @@ Links de arquivos e apresentações:
 * MS Project
 * MS Power Point
 
-OBS: ** Tecnologias ainda não aplicadas ao desenvolvimento do projeto.
+**OBS:** ** Tecnologias ainda não aplicadas ao desenvolvimento do projeto.
 
-
-# Backlog do produto
 
 ## Sprint 1. Início do Desenvolvimento do Projeto
 - [x] Definição dos objetivos;

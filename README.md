@@ -21,7 +21,7 @@ Sprint | Previsão | Status|
 |----------|----------|----------|
 |Kick Off| 10/04/2024 | concluído |
 |------|--------|------|
-|1ª Sprint| 08/05/2024 | a confirmar |
+|1ª Sprint| 08/05/2024 | concluído |
 |2ª Sprint| 29/05/2024 | a confirmar |
 |3ª Sprint| 19/06/2024 | a confirmar |
 |------|--------|------|
@@ -58,12 +58,12 @@ Links de arquivos e apresentações:
 * Power BI
 * Microsoft Excel
 * Slack **
-* SQL
+* SQL *
 * MS Project
 * MS Power Point
 
-**OBS:** ** Tecnologias ainda não aplicadas ao desenvolvimento do projeto.
-
+**OBS:** ** Tecnologias ainda não aplicadas ao desenvolvimento do projeto; * Durante a execução do projeto foi constato inconcistência na aplicação do programa MySQL Workbench 8.0 CE, inde não foi possível a sua utilização.
+ 
 
 ## Sprint 1. Início do Desenvolvimento do Projeto
 - [x] Definição dos objetivos;
@@ -77,6 +77,7 @@ Links de arquivos e apresentações:
 - [x] Apresentação dos resultados;
 
 ## Sprint 2. Desenvolvimento e Análise dos dados
+- [ ] Manutenção e modelagem de base de dados;
 - [ ] Refinamento da base de dados;
 - [ ] Análise de dados de produtividade dos veículos;
 - [ ] Análise da evolução dos custos por KM, por rota e fábrica;

@@ -1,5 +1,5 @@
 # Repository APLHAGROUP
-# Aprendizado por Projeto Integrado (API) - Template
+# Aprendizado por Projeto Integrado (API)
 
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos

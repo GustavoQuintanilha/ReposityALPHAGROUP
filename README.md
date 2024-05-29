@@ -46,7 +46,7 @@ Links de arquivos e apresentações:
 
 * [BASE DE DADOS.xlsx](https://github.com/GustavoQuintanilha/ReposityALPHAGROUP/files/15405737/BASE.DE.DADOS.xlsx)
 
-* [AlphaGroup.zip](https://github.com/GustavoQuintanilha/ReposityALPHAGROUP/files/15477290/AlphaGroup.zip)
+* [AlphaGroup.zip](https://github.com/GustavoQuintanilha/ReposityALPHAGROUP/files/15477319/AlphaGroup.zip)
 
 * https://app.powerbi.com/groups/me/reports/5d1b9a78-2571-4d1f-9ad5-ab36f7333db6?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
   

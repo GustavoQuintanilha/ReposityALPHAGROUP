@@ -45,6 +45,8 @@ Este projeto tem como objetivo trabalhar em conjunto com o cliente interno FATEC
 Links de arquivos e apresentações:
 
 * [BASE DE DADOS.xlsx](https://github.com/GustavoQuintanilha/ReposityALPHAGROUP/files/15405737/BASE.DE.DADOS.xlsx)
+* 
+[AlphaGroupSprint3.zip](https://github.com/user-attachments/files/15796575/AlphaGroupSprint3.zip)
 
 * [AlphaGroup.zip](https://github.com/GustavoQuintanilha/ReposityALPHAGROUP/files/15477437/AlphaGroup.zip)
 

@@ -81,6 +81,7 @@ Links de arquivos e apresentações:
 - [x] Apresentação dos resultados;
 
 ## Sprint 2. Desenvolvimento e Análise dos dados
+- [ ] Aplicação das planilhas na ferramenta SQL;
 - [ ] Manutenção e modelagem de base de dados;
 - [ ] Refinamento da base de dados;
 - [ ] Análise de dados de produtividade dos veículos;

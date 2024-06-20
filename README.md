@@ -81,23 +81,22 @@ Links de arquivos e apresentações:
 - [x] Apresentação dos resultados;
 
 ## Sprint 2. Desenvolvimento e Análise dos dados
-- [ ] Aplicação das planilhas na ferramenta SQL;
-- [ ] Manutenção e modelagem de base de dados;
-- [ ] Refinamento da base de dados;
-- [ ] Análise de dados de produtividade dos veículos;
-- [ ] Análise da evolução dos custos por KM, por rota e fábrica;
-- [ ] Importação dos dados ao Power BI;
-- [ ] Criação de gráficos para demonstração dos resultados;
-- [ ] Apresentação dos resultados;
+- [x] Aplicação das planilhas na ferramenta SQL;
+- [x] Manutenção e modelagem de base de dados;
+- [x] Refinamento da base de dados;
+- [x] Análise de dados de produtividade dos veículos;
+- [x] Análise da evolução dos custos por rota e fábrica;
+- [x] Importação dos dados ao Power BI;
+- [x] Criação de gráficos para demonstração dos resultados;
+- [x] Apresentação dos resultados;
       
 ## Sprint 3 . Conclusão
-- [ ] Análise dos dados de produtividade dos veículos;
-- [ ] Análise da evolução dos custos por KM, por rota e fábrica;
-- [ ] Análise da evolução dos custos por unidade transportada, por fábrica;
-- [ ] Importação dos dados ao Power BI;
-- [ ] Criação de gráficos para demonstração dos resultados;
-- [ ] Apresentação dos resultados;
-- [ ] Conclusão da análise dos dados apresentados;
+- [x] Análise dos dados de produtividade dos veículos mensal e anual;
+- [x] Análise dos fretes pagos erroneamente;
+- [x] Importação dos dados ao Power BI;
+- [x] Criação de gráficos para demonstração dos resultados;
+- [x] Apresentação dos resultados;
+- [x] Conclusão da análise dos dados apresentados;
 
 
 # Competências desenvolvidas
